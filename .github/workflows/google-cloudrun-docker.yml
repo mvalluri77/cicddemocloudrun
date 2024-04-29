@@ -40,7 +40,7 @@ jobs:
         with:
           service: crdemo-cicd
           region: us-central1
-          image: docker.io/tinumistry/crdemo:cicd001
+          image: docker.io/madan45/crdemo:cicd001
           flags: ' --allow-unauthenticated '
       - name: Show Output
         run: echo ${{ steps.deploy.outputs.url }} 
