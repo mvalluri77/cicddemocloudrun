@@ -66,10 +66,10 @@
 						<image>mcr.microsoft.com/java/jdk:17-zulu-alpine</image>
 					</from>
 					<to>
-						<image>docker.io/tinumistry/crdemo:cicd001</image>
+						<image>docker.io/madan45/crdemo:cicd001</image>
 						<auth>
-							<username>tinumistry</username>
-							<password>${env.PASSWORD}</password>
+							<username>madan45</username>
+							<password>Hanviish@45</password>
 						</auth>
 					</to>
 				</configuration>
